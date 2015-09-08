@@ -13,8 +13,8 @@ public class CertificateCoderTest {
 
     private String password = "loon123";
     private String alias = "loon";
-    private String certificatePath = CertificateCoderTest.class.getResource("/loon.cer").getFile();
-    private String keyStorePath = CertificateCoderTest.class.getResource("/loon.keystore").getFile();
+    private String certificatePath = CertificateCoderTest.class.getResource("/looncom.cer").getFile();
+    private String keyStorePath = CertificateCoderTest.class.getResource("/looncom.keystore").getFile();
 
 
     @Test
