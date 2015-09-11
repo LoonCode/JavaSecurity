@@ -2,7 +2,7 @@
 java 加密 解密
 
 
-C:\Users\Administrator>keytool -genkey -validity 360 -alias loon -keyalg RSA -keystore c:\loon.keydtore
+C:\Users\Administrator>keytool -genkey -validity 360 -alias loon -keyalg RSA -keystore c:\loon.keystore
 输入密钥库口令:
 密钥库口令太短 - 至少必须为 6 个字符
 输入密钥库口令:
